@@ -163,11 +163,11 @@
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
-    
+
     <fields>
         <fullName>field1__c</fullName>
         <externalId>false</externalId>
-        <label>field1</label>
+        <label>field one</label>
         <length>12</length>
         <required>false</required>
         <trackHistory>false</trackHistory>
@@ -175,4 +175,5 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    
 </CustomObject>
